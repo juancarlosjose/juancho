@@ -1,0 +1,21 @@
+# GUI
+PyQt6>=6.5.0
+
+# Audio processing
+librosa>=0.10.0
+demucs>=4.0.0
+spleeter>=2.4.0
+pydub>=0.25.1
+
+# MIDI handling
+mido>=1.2.10
+python-rtmidi>=1.5.0
+pretty_midi>=0.2.10
+
+# Visualization
+matplotlib>=3.7.0
+numpy>=1.24.0
+
+# Utilities
+tqdm>=4.65.0
+
